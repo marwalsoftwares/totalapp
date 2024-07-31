@@ -1,0 +1,8 @@
+version: 1.1.2
+files:
+  - url: totalapp-1.1.2-setup.exe
+    sha512: dVN5XmRhjBysqc/+gqkOFbC6eWichWl1oQHa1jYGmHr53CNmwGnhP78QCTSVSm9rT4KQkzc/6s7d00rxXSL4yw==
+    size: 78659165
+path: totalapp-1.1.2-setup.exe
+sha512: dVN5XmRhjBysqc/+gqkOFbC6eWichWl1oQHa1jYGmHr53CNmwGnhP78QCTSVSm9rT4KQkzc/6s7d00rxXSL4yw==
+releaseDate: '2024-07-31T06:25:02.971Z'
